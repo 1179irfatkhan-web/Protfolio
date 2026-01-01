@@ -1,5 +1,5 @@
 import React from 'react';
-import { FiBriefcase, FiCalendar, FiMapPin, FiCheck } from 'react-icons/fi';
+import { FiBriefcase, FiCalendar, FiCheck } from 'react-icons/fi';
 import { experience } from '../data';
 
 const Experience = () => {
